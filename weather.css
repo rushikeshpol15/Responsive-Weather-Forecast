@@ -154,7 +154,7 @@ h5{
         
     
 
-    .container{margin-top: 0px;}
+    .container{margin-top: 5px;}
     .two{display: none;}
     .three{display: none;}
     .four{display: none;}
@@ -163,7 +163,7 @@ h5{
         grid-auto-rows: auto;
         justify-content: center;
         padding: 10px;
-        margin-top: 0px;
+        margin-top: 20px;
     }
     .one{
         width: 60vw;
