@@ -26,11 +26,11 @@ My responsive weather forecast website! Stay up-to-date with the latest weather 
 
 ## Screenshots
 
-![App Screenshot](screenshots/screenshot_1.jpg)
+![App Screenshot](screenshots/screenshot_6.jpg)
 ![App Screenshot](screenshots/screenshot_2.jpg)
 ![App Screenshot](screenshots/screenshot_3.jpg)
 ![App Screenshot](screenshots/screenshot_4.jpg)
 ![App Screenshot](screenshots/screenshot_5.jpg)
-![App Screenshot](screenshots/screenshot_6.jpg)
+![App Screenshot](screenshots/screenshot_1.jpg)
 
 
