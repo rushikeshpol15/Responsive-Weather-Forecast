@@ -4,6 +4,9 @@ My responsive weather forecast website! Stay up-to-date with the latest weather 
 
 #### The visuals of the website automatically changes according to the live time and weather conditions.
 
+Test this website - 
+https://rushikeshpol15.github.io/Responsive-Weather-Forecast/
+
 # This website shows following parameters based on user Input:
 
 - live Temperature
