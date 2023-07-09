@@ -12,8 +12,8 @@ body{
 }
 .container{
     /* width: 80vw; */
-    /* height: 90vh; */
-    margin: 10vh 10vw 0vh 10vw;
+/*     min-height: 90vh; */
+    margin: 10vh 10vw 12vh 10vw;
     border: 2px solid rgb(46, 45, 45);
     border-radius: 15px;
 }
