@@ -11,8 +11,8 @@ body{
     background-size: cover;
 }
 .container{
-    width: 80vw;
-    height: 90vh;
+    /* width: 80vw; */
+    /* height: 90vh; */
     margin: 10vh 10vw 0vh 10vw;
     border: 2px solid rgb(46, 45, 45);
     border-radius: 15px;
@@ -54,7 +54,7 @@ body{
 {
     display: grid;
     grid-template-columns: 20vw 20vw 20vw;
-    grid-auto-rows: 30vh;
+    grid-auto-rows: auto;
     gap: 30px;
     justify-content: center;
     margin-top: 8vh;
@@ -79,7 +79,7 @@ h5{
 }
 .two{text-align: center;}
 .two h5{
-    margin-top: 27px;
+    margin-top: 30px;
 }
 .three img{
     margin-bottom: 15px;
