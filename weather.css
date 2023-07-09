@@ -9,16 +9,17 @@ body{
     url("morning.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 100vh;
 }
 .container{
     /* width: 80vw; */
-/*     min-height: 90vh; */
-    margin: 10vh 10vw 12vh 10vw;
+    /* min-height: 90vh; */
+    margin: 10vh 10vw 0vh 10vw;
     border: 2px solid rgb(46, 45, 45);
     border-radius: 15px;
 }
 .navBar{
-    padding: 20px;
+    padding: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -154,7 +155,7 @@ h5{
         
     
 
-    .container{margin-top: 5px;}
+    .container{margin-top: 100px;}
     .two{display: none;}
     .three{display: none;}
     .four{display: none;}
@@ -163,7 +164,7 @@ h5{
         grid-auto-rows: auto;
         justify-content: center;
         padding: 10px;
-        margin-top: 20px;
+        margin-top: 50px;
     }
     .one{
         width: 60vw;
@@ -175,7 +176,7 @@ h5{
 
     }
     .one h5{
-         font-size: 88%; 
+         font-size: 0.9em; 
          margin-top: 12px;
         }
     .one .tempAndImg img{
@@ -191,7 +192,7 @@ h5{
         word-wrap:break-word;
         overflow: hidden;
     }
-    .cityInfo h5{ font-size: 85%;}
+    .cityInfo h5{ font-size: 0.9em;}
     .one .tempAndImg{ 
         width: 55%;
         height: 140px;
@@ -206,7 +207,7 @@ h5{
         width: 100%;
     }
     .forSmallWidth h5{
-        font-size: 80%; 
+        font-size: 0.9em; 
         margin-left: 5px;
         margin-bottom: 8px;
     }
